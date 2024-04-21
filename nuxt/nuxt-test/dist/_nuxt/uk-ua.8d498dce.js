@@ -1,0 +1,1 @@
+const t={nav:{"nav-chat":{t:0,b:{t:2,i:[{t:3}],s:"Чат"}},"nav-spin":{t:0,b:{t:2,i:[{t:3}],s:"Колесо"}},"nav-users":{t:0,b:{t:2,i:[{t:3}],s:"Користувачі"}},"nav-chart":{t:0,b:{t:2,i:[{t:3}],s:"Графік"}}},weather:{"feels-like":{t:0,b:{t:2,i:[{t:3}],s:"відчувається як"}},"wind-speed":{t:0,b:{t:2,i:[{t:3}],s:"швидкість вітру"}}}};export{t as default};

@@ -1,0 +1,15 @@
+{
+    "nav": {
+        "nav-chat": "Chat",
+        "nav-spin": "Spin",
+        "nav-users": "Users",
+        "nav-chart": "Chart"
+    },
+    "page-titels": {
+        "home": "Chat"
+    },
+    "weather": {
+        "feels-like": "feels like",
+        "wind-speed": "wind speed"
+    }
+}

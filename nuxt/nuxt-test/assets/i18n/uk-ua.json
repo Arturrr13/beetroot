@@ -1,0 +1,12 @@
+{
+    "nav": {
+        "nav-chat": "Чат",
+        "nav-spin": "Колесо",
+        "nav-users": "Користувачі",
+        "nav-chart": "Графік"
+    },
+    "weather": {
+        "feels-like": "відчувається як",
+        "wind-speed": "швидкість вітру"
+    }
+}

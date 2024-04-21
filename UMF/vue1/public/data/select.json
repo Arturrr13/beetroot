@@ -1,0 +1,98 @@
+[
+    {
+        "country": "ukraine",
+        "flag": "UA"
+    },
+    {
+        "country": "brazil",
+        "flag": "BR"
+    },
+    {
+        "country": "canada",
+        "flag": "CA"
+    },
+    {
+        "country": "denmark",
+        "flag": "DK"
+    },
+    {
+        "country": "united kingdom",
+        "flag": "GB"
+    },
+    {
+        "country": "italy",
+        "flag": "IT"
+    },
+    {
+        "country": "switzerland",
+        "flag": "CH"
+    },
+    {
+        "country": "spain",
+        "flag": "ES"
+    },
+    {
+        "country": "france",
+        "flag": "FR"
+    },
+    {
+        "country": "japan",
+        "flag": "JP"
+    },
+    {
+        "country": "jamaica",
+        "flag": "JM"
+    },
+    {
+        "country": "iceland",
+        "flag": "IS"
+    },
+    {
+        "country": "monaco",
+        "flag": "MC"
+    },
+    {
+        "country": "mexico",
+        "flag": "MX"
+    },
+    {
+        "country": "new zealand",
+        "flag": "NZ"
+    },
+    {
+        "country": "poland",
+        "flag": "PL"
+    },
+    {
+        "country": "sweden",
+        "flag": "SE"
+    },
+    {
+        "country": "cocos (keeling) islands",
+        "flag": "CC"
+    },
+    {
+        "country": "united states",
+        "flag": "US"
+    },
+    {
+        "country": "portugal",
+        "flag": "PT"
+    },
+    {
+        "country": "norway",
+        "flag": "NO"
+    },
+    {
+        "country": "latvia",
+        "flag": "LV"
+    },
+    {
+        "country": "lithuania",
+        "flag": "LT"
+    },
+    {
+        "country": "belgium",
+        "flag": "BE"
+    }
+]

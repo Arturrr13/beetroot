@@ -1,0 +1,50 @@
+@use "sass:math";
+@mixin button($bg, $c, $w, $h, $br){
+    background: $bg;
+    color: $c;
+    width: $w;
+    height: $h;
+    border: none;
+    border-radius: $br;
+    outline: none;
+}
+
+@mixin h1($lh){
+    color: #060048;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: $lh;
+    text-transform: uppercase;
+}
+
+@mixin text($c, $fs, $fw, $lh, $tt: true){
+    font-family: 'Montserrat';
+    color: $c;
+    font-size: $fs;
+    font-weight: $fw;
+    line-height: $lh;
+    @if $tt == true {
+        text-transform: uppercase;
+    } @else {
+        text-transform: none;
+    }
+}
+
+@mixin flex($justify, $align, $direc: false){
+    display: flex;
+    justify-content: $justify;
+    align-items: $align;
+    @if $direc == true {
+        flex-direction: row;
+    } @else {
+        flex-direction: column;
+        color: red;
+    }
+}
+
+$fontSize: 16;
+@function toRem($val) {
+    @return calc($val / $fontSize) + 0rem;
+}
